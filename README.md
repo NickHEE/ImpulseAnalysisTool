@@ -9,5 +9,5 @@ pip install -r requirements.txt
 
 ![Recording Tab](https://raw.githubusercontent.com/NickHEE/ImpulseAnalysisTool/master/assets/Screenshots/Recording_analyze.png)
 
-![Recording Tab](https://raw.githubusercontent.com/NickHEE/ImpulseAnalysisTool/master/assets/Screenshots/Analyze_main.png)
+![Analyze Tab](https://raw.githubusercontent.com/NickHEE/ImpulseAnalysisTool/master/assets/Screenshots/Analyze_main.png)
 
